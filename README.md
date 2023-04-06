@@ -4,7 +4,7 @@
 
 ## Dataset
 
-Ce jeu de données, j'ai pu la télécharger via le lien : https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv.
+Ce jeu de données, j'ai pu le télécharger via le lien : https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv.
 Il vient avec 16 colonnes. Au cours de notre analyse nous nous sommes retrouvés avec 18 colonnes ( 2 de plus donc)
 Les colonnes de notre jeu de données:
 'duration_sec': (in seconds),
